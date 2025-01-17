@@ -1,0 +1,5 @@
+This study explores the gig economy's dynamics within South Korea, focusing on youth employment transitions between gig and non-gig sectors. 
+First, we identify key demographics that describe distinct profiles of young gig workers in South Korea. Then we utilize the data from the Youth Panel(YP) surveys, we employed multinomial logistic regression to identify key factors influencing these transitions, such as gender, capital,
+and education. Our findings highlight the significant role these variables play in determining employment outcomes within the gig economy. Additional analyses of gig worker characteristics reveal a substantial presence of gig employment among young
+individuals, particularly those with lower educational levels and residing in urban areas.
+The study suggests policy interventions to mitigate risks associated with gig work and to enhance its viability as a sustainable employment option. Our results indicate that tailored educational programs and urban development policies could support gig workers effectively.
